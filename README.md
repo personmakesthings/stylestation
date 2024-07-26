@@ -39,7 +39,7 @@ Website demo on Render: https://stylestation.onrender.com/
 
 # Known issues
 ## Major - will be fixed in next version update
-- Next `<Image>` does not handle invalid (not an image) `src` attributes, leading to page crash if invalid URL is submitted
+- Next `<Image>` does not handle invalid (not an image) `src` attribute values, leading to page crash if invalid URL is submitted
 
 
 ## UX-related
