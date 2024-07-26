@@ -22,7 +22,7 @@ export default function TableOutfits({outfitsData}) {
                         
                         <Link href={`/outfits/${outfit.id}`}>
                         <div className="card-outfit-imgs">
-                            <div className="card-img-large-container" aria-label={`Images of outfit: ${outfit.title}`}>
+                            <div className="card-img-large-container" role="img" aria-label={`Images of outfit: ${outfit.title}`}>
                                 <Image
                                     width="200"
                                     height="200"
