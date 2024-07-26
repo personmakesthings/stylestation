@@ -806,8 +806,13 @@ footer {
     background-image: url("/hero-image.webp");
     background-size: contain;
     background-repeat: no-repeat;
-    z-index: 0;
 }
+
+    @media (max-width: 801px) {
+        .hero-bg-img {
+            width: 100%;
+        }
+    }
 
     @media (max-width: 865px) {
         .hero-bg-img {
