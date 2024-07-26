@@ -64,7 +64,7 @@ Website demo on Render: https://stylestation.onrender.com/
 
 ### Recommended
 **Adding Admin role to a registered user**
-- Follow the step "Set the admin role for your user" from Clerk's documentation to add an admin to your website: https://clerk.com/docs/guides/basic-rbac#configure-the-session-token
+- Follow the step "Set the admin role for your user" from Clerk's documentation to add an admin to your website: https://clerk.com/docs/guides/basic-rbac#set-the-admin-role-for-your-user
 
 
 
