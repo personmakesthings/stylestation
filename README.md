@@ -44,7 +44,7 @@ Website demo on Render: https://stylestation.onrender.com/
 
 ## UX-related
 - Burger menu doesn't automatically close upon loading another page
-- Improved image display in cards
+- Improved image display needed for cards
 
 
 
