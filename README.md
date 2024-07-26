@@ -19,7 +19,7 @@ Website demo on Render: https://stylestation.onrender.com/
 - User roles and permissions
 
 
-# Future features being consider
+# Future features being considered
 - Validation library
 - User roles in profile
 - Post karma or react to posts (e.g. like, heart, sad face, laughing)
@@ -45,3 +45,12 @@ Website demo on Render: https://stylestation.onrender.com/
 ## UX-related
 - Burger menu doesn't automatically close upon loading another page
 - Improved image display in cards
+
+
+
+# Attributions
+## Images
+- https://www.vecteezy.com/vector-art/8486250-black-and-white-social-media-icons
+- https://www.vecteezy.com/vector-art/377438-hanger-vector-icon
+- https://www.pexels.com/photo/black-framed-eyeglasses-on-white-jacket-and-blue-denim-bottoms-934070/
+- https://www.pexels.com/photo/smiling-woman-looking-upright-standing-against-yellow-wall-1536619/
