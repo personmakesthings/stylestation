@@ -166,6 +166,7 @@ input {
 }
 
 .form-text {
+    padding: 30px;
     font-size: 15px;
     text-align: center;
 }
